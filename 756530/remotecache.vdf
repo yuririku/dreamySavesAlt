@@ -1,0 +1,29 @@
+"756530"
+{
+	"ChangeNumber"		"2"
+	"ostype"		"0"
+	"BANDAI NAMCO Entertainment/Tokyo Ghoul re CALL to EXIST/1053475725/gamedata.save"
+	{
+		"root"		"3"
+		"size"		"1048576"
+		"localtime"		"1727323921"
+		"time"		"1727323915"
+		"remotetime"		"1727323915"
+		"sha"		"7e753adb7a4747c46b28274859e16fd5a5a5e313"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"BANDAI NAMCO Entertainment/Tokyo Ghoul re CALL to EXIST/1053475725/config.save"
+	{
+		"root"		"3"
+		"size"		"2048"
+		"localtime"		"1727323945"
+		"time"		"1727323939"
+		"remotetime"		"1727323939"
+		"sha"		"f9380ef67b87b1aac479126bcac2ab46fc87e9ad"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
