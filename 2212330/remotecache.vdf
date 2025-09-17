@@ -1,0 +1,53 @@
+"2212330"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"YourOnlyMoveIsHUSTLE/custom/homuhomu.style"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"YourOnlyMoveIsHUSTLE/gameformats/default.gameformat"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"YourOnlyMoveIsHUSTLE/modded.json"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"YourOnlyMoveIsHUSTLE/playerdata.json"
+	{
+		"root"		"4"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
