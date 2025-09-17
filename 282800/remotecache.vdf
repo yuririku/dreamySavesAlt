@@ -1,0 +1,53 @@
+"282800"
+{
+	"ChangeNumber"		"1"
+	"ostype"		"0"
+	"save/76561199013741453/profile2.ojs"
+	{
+		"root"		"1"
+		"size"		"6235"
+		"localtime"		"1744537895"
+		"time"		"1744537894"
+		"remotetime"		"1744537894"
+		"sha"		"65ab553a14635c0a17fb3eb034ebe0f5ff644031"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save/76561199013741453/profile1.ojs"
+	{
+		"root"		"1"
+		"size"		"6235"
+		"localtime"		"1744537895"
+		"time"		"1744537894"
+		"remotetime"		"1744537894"
+		"sha"		"6be394ddeab304b2d6a6de47a0287ccd3fa70bba"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save/76561199013741453/profile0.ojs"
+	{
+		"root"		"1"
+		"size"		"6566"
+		"localtime"		"1744538157"
+		"time"		"1744538156"
+		"remotetime"		"1744538156"
+		"sha"		"97d7e8a1ace4d391ef3822292e5de5b7639d86aa"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save/76561199013741453/last_save.ojs"
+	{
+		"root"		"1"
+		"size"		"17"
+		"localtime"		"1744538157"
+		"time"		"1744538156"
+		"remotetime"		"1744538156"
+		"sha"		"52f09ef4a949154cd846f3cd459c4e7f069ec559"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
