@@ -1,0 +1,41 @@
+"2873080"
+{
+	"ChangeNumber"		"12"
+	"ostype"		"0"
+	"Nino/TheNOexistenceNofyouANDme/NaninovelData/Saves/GlobalSave.json"
+	{
+		"root"		"12"
+		"size"		"9501"
+		"localtime"		"1752031099"
+		"time"		"1752031098"
+		"remotetime"		"1752031098"
+		"sha"		"154f82b32db394e4e5d2fd768c5f5f107ef44428"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Nino/TheNOexistenceNofyouANDme/NaninovelData/Saves/Settings.json"
+	{
+		"root"		"12"
+		"size"		"1198"
+		"localtime"		"1752030635"
+		"time"		"1752030634"
+		"remotetime"		"1752030634"
+		"sha"		"44e3e892ee3a3b3ee76cac9a17485f9016eb5530"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Nino/TheNOexistenceNofyouANDme/NaninovelData/Saves/1.json"
+	{
+		"root"		"12"
+		"size"		"28653"
+		"localtime"		"1752031063"
+		"time"		"1752031062"
+		"remotetime"		"1752031062"
+		"sha"		"b0bae662bbe32c8cb0329f916ed7c082f84b79e1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
