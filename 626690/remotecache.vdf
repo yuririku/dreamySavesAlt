@@ -1,0 +1,17 @@
+"626690"
+{
+	"ChangeNumber"		"1"
+	"ostype"		"0"
+	"OnlineCommon.bin"
+	{
+		"root"		"0"
+		"size"		"350"
+		"localtime"		"1753336825"
+		"time"		"1753336796"
+		"remotetime"		"1753336796"
+		"sha"		"0d86f33dfc11a60fa3abfad8ce2f5fde5aab90cf"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
